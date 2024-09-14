@@ -1,5 +1,5 @@
 # Hey there! 👋 
-I'm Max, a first year BSc Honors Computing Science student at the University of Alberta. Welcome to my GitHub profile!
+I'm Max, a second year BSc Honors Computing Science student at the University of Alberta. Welcome to my GitHub profile!
 
 | I'm familiar with... | I'm currently learning... |
 | - | - |
