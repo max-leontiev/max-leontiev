@@ -10,6 +10,12 @@ I'm Max! But also, I'm a...
   [<img title="R" alt="R" src="img/r.svg" height="16" width="16"/>](https://www.r-project.org/)
   [<img title="LaTeX" alt="LaTeX" src="img/latex.svg" height="16" width="16"/>](https://www.latex-project.org/)
   [<img title="Git" alt="Git" src="img/git.svg" height="16" width="16"/>](https://git-scm.com/)
+   - 🐉 **[NSERC USRA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) Scholar** @ the [Compiler Design and Optimization Lab](https://webdocs.cs.ualberta.ca/~amaral/)&nbsp;
+     [<img title="LLVM" alt="LLVM" src="img/llvm.svg" height="16" width="16"/>](https://llvm.org/)
+     [<img title="C++" alt="C++" src="img/cpp.svg" height="16" width="16"/>](https://isocpp.org/)
+     [<img title="RISC-V" alt="RISC-V" src="img/riscv.svg" height="16" width="16"/>](https://riscv.org/)
+     [<img title="Rust" alt="Rust" src="img/rust.svg" height="16" width="16"/>](https://www.rust-lang.org/)
+     [<img title="Git" alt="Git" src="img/git.svg" height="16" width="16"/>](https://git-scm.com/)
 - 🌐 **Web Developer** @ [Endeavor Technologies](https://www.endeavortech.com/)&nbsp;
   [<img title="JavaScript" alt="JavaScript" src="img/js.svg" height="16" width="16"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img title="TypeScript" alt="TypeScript" src="img/ts.svg" height="16" width="16"/>](https://www.typescriptlang.org/)
