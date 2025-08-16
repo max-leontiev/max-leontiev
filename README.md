@@ -1,7 +1,7 @@
 # Hey there! 👋
 I'm Max! But also, I'm a...
 
-- 🎓 **2nd year BSc Honors Computing Science student** @ the [University of Alberta](https://www.ualberta.ca)&nbsp;
+- 🎓 **Third year BSc Honors Computing Science student** @ the [University of Alberta](https://www.ualberta.ca)&nbsp;
   [<img title="Python" alt="Python" src="img/python.svg" height="16" width="16"/>](https://www.python.org/)
   [<img title="RISC-V" alt="RISC-V" src="img/riscv.svg" height="16" width="16"/>](https://riscv.org/)
   [<img title="C" alt="C" src="img/c.svg" height="16" width="16"/>](https://www.iso.org/standard/82075.html)
